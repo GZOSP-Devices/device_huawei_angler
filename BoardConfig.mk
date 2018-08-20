@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+TARGET_USES_LLVM := true
 
 TARGET_BOARD_PLATFORM := msm8994
 TARGET_BOOTLOADER_BOARD_NAME := angler
